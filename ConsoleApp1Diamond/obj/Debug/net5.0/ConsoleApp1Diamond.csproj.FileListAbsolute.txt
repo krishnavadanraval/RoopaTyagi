@@ -1,0 +1,5 @@
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net5.0\ConsoleApp1Diamond.csproj.AssemblyReference.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net5.0\ConsoleApp1Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net5.0\ConsoleApp1Diamond.AssemblyInfoInputs.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net5.0\ConsoleApp1Diamond.AssemblyInfo.cs
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net5.0\ConsoleApp1Diamond.csproj.CoreCompileInputs.cache

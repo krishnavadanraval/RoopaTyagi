@@ -1,0 +1,15 @@
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\bin\Debug\net6.0\ConsoleApp1Diamond.exe
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\bin\Debug\net6.0\ConsoleApp1Diamond.deps.json
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\bin\Debug\net6.0\ConsoleApp1Diamond.runtimeconfig.json
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\bin\Debug\net6.0\ConsoleApp1Diamond.dll
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\bin\Debug\net6.0\ConsoleApp1Diamond.pdb
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.csproj.AssemblyReference.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.AssemblyInfoInputs.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.AssemblyInfo.cs
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.csproj.CoreCompileInputs.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.dll
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\refint\ConsoleApp1Diamond.dll
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.pdb
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ConsoleApp1Diamond.genruntimeconfig.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\ConsoleApp1Diamond\obj\Debug\net6.0\ref\ConsoleApp1Diamond.dll

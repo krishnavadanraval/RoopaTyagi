@@ -1,0 +1,12 @@
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\bin\Debug\net6.0\DiamondClassLibrary1.deps.json
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\bin\Debug\net6.0\DiamondClassLibrary1.dll
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\bin\Debug\net6.0\DiamondClassLibrary1.pdb
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\DiamondClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\DiamondClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\DiamondClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\DiamondClassLibrary1.AssemblyInfo.cs
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\DiamondClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\DiamondClassLibrary1.dll
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\refint\DiamondClassLibrary1.dll
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\DiamondClassLibrary1.pdb
+C:\Users\003W18744\source\repos\ConsoleApp1Diamond\DiamondClassLibrary1\obj\Debug\net6.0\ref\DiamondClassLibrary1.dll
